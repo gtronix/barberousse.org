@@ -1,0 +1,26 @@
+baseURL = 'https://barberousse.org/'
+languageCode = 'fr'
+title = 'Barbe Rousse'
+theme = 'lynx'
+
+[params.author] 
+  name = "Barbe Rousse"
+  headline = """⚡Tissons ensemble des souvenirs inoubliables!🥹
+
+  📢Booking locaux
+
+  🎙Enregistrement🎧 
+  
+  📺Montage 
+  
+  🎸Lutherie
+
+🧭Waterville, Estrie, Québec"""
+  image = "barberousse.png"
+  links = [
+    { instagram = "https://www.instagram.com/barbe_rousse_prod" },
+    { youtube = "https://www.youtube.com/channel/UCgDBFyfNe9sSg1dLV2EJoRw" },
+    { bandcamp = "https://barberousseproduction.bandcamp.com/" },
+    { mastodon = "https://mastodon.social/@barberousse" },
+    { email = "mailto:info@barberousse.org" },
+  ]
